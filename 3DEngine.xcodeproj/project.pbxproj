@@ -52,13 +52,6 @@
 		BF2D06EB1C96394500075CD3 = {
 			isa = PBXGroup;
 			children = (
-				BF2D07091C963DDF00075CD3 /* Helpers */,
-				BF2D070A1C963DDF00075CD3 /* Models */,
-				BF2D070B1C963DDF00075CD3 /* Other */,
-				BF2D070C1C963DDF00075CD3 /* Storyboards */,
-				BF2D070D1C963DDF00075CD3 /* View Controllers */,
-				BF2D070E1C963DDF00075CD3 /* View Models */,
-				BF2D070F1C963DDF00075CD3 /* Views */,
 				BF2D06F61C96394500075CD3 /* 3DEngine */,
 				BF2D06F51C96394500075CD3 /* Products */,
 				6FF4DC5312C184CA67928618 /* Pods */,
@@ -77,6 +70,13 @@
 		BF2D06F61C96394500075CD3 /* 3DEngine */ = {
 			isa = PBXGroup;
 			children = (
+				BF2D07101C963E1A00075CD3 /* Helpers */,
+				BF2D07111C963E1A00075CD3 /* Models */,
+				BF2D07121C963E1A00075CD3 /* Other */,
+				BF2D07131C963E1A00075CD3 /* Storyboards */,
+				BF2D07141C963E1A00075CD3 /* View Controllers */,
+				BF2D07151C963E1A00075CD3 /* View Models */,
+				BF2D07161C963E1A00075CD3 /* Views */,
 				BF2D06F71C96394500075CD3 /* AppDelegate.swift */,
 				BF2D06F91C96394500075CD3 /* ViewController.swift */,
 				BF2D06FB1C96394500075CD3 /* Main.storyboard */,
@@ -87,60 +87,53 @@
 			path = 3DEngine;
 			sourceTree = "<group>";
 		};
-		BF2D07091C963DDF00075CD3 /* Helpers */ = {
+		BF2D07101C963E1A00075CD3 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = Helpers;
-			path = 3DEngine/Helpers;
+			path = Helpers;
 			sourceTree = "<group>";
 		};
-		BF2D070A1C963DDF00075CD3 /* Models */ = {
+		BF2D07111C963E1A00075CD3 /* Models */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = Models;
-			path = 3DEngine/Models;
+			path = Models;
 			sourceTree = "<group>";
 		};
-		BF2D070B1C963DDF00075CD3 /* Other */ = {
+		BF2D07121C963E1A00075CD3 /* Other */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = Other;
-			path = 3DEngine/Other;
+			path = Other;
 			sourceTree = "<group>";
 		};
-		BF2D070C1C963DDF00075CD3 /* Storyboards */ = {
+		BF2D07131C963E1A00075CD3 /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = Storyboards;
-			path = 3DEngine/Storyboards;
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
-		BF2D070D1C963DDF00075CD3 /* View Controllers */ = {
+		BF2D07141C963E1A00075CD3 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = "View Controllers";
-			path = "3DEngine/View Controllers";
+			path = "View Controllers";
 			sourceTree = "<group>";
 		};
-		BF2D070E1C963DDF00075CD3 /* View Models */ = {
+		BF2D07151C963E1A00075CD3 /* View Models */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = "View Models";
-			path = "3DEngine/View Models";
+			path = "View Models";
 			sourceTree = "<group>";
 		};
-		BF2D070F1C963DDF00075CD3 /* Views */ = {
+		BF2D07161C963E1A00075CD3 /* Views */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = Views;
-			path = 3DEngine/Views;
+			path = Views;
 			sourceTree = "<group>";
 		};
 		F733B3DB6F025BF557B632EB /* Frameworks */ = {
